@@ -4,4 +4,4 @@ This repository has the Jupyter notebook files used during the _Data Science for
 
 Important: 
 
-Some of the original notebooks were submitted to the BlackBoard University portal directly,
+Some of the original notebooks were submitted to the BlackBoard University portal directly.
