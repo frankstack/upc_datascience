@@ -4,6 +4,6 @@ This repository contains the Jupyter notebook files used during the _Data Scienc
 
 Important: 
 
-Some of the original notebooks were submitted to the BlackBoard University portal directly.
+Most of the original notebooks were submitted to the BlackBoard University portal.
 
 
